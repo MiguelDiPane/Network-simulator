@@ -1,0 +1,5 @@
+{
+  "name": "Watts-Strogatz Network Simulator",
+  "description": "A high-end simulation of the Watts-Strogatz small-world network algorithm with real-time metrics and animated visualization.",
+  "requestFramePermissions": []
+}
